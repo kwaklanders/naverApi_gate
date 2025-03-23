@@ -1,0 +1,3 @@
+<?
+	Dis_connect($connect);
+?>
